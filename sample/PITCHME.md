@@ -5,15 +5,13 @@ This is sample slide.
 
 ## Page2
 - list 1 |
-- list 2 |
+- ![sampleImage](sample/assets/images/sample_small.jpg) |
 - list 3 |
 
----
+---?image=sample/assets/images/sample.jpg&size=auto 60%
 
-## Page3
-- list 1 |
-- list 2 |
-- list 3 |
+learn more 
+https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md
 
 ---
 
