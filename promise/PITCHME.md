@@ -1,4 +1,4 @@
----?image=promise/hoge.jpg
+---?image=promise/hoge.jpg&size=75% 75%
 
 # Promiseを使った非同期処理
 
