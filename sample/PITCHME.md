@@ -4,9 +4,9 @@ This is sample slide.
 ---
 
 ## Page2
+![sampleImage](sample/assets/images/sample_small.jpeg) 
 - list 1 |
-- ![sampleImage](sample/assets/images/sample_small.jpeg) |
-- list 3 |
+- list 2 |
 
 ---?image=sample/assets/images/sample.jpg&size=auto 90%
 
