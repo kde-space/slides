@@ -8,6 +8,6 @@
 
 ![aaa](https://github.com/kde-space/slides/raw/master/promise/hoge.jpg)
 
----
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 ## おわり
