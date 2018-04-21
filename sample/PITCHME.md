@@ -10,7 +10,7 @@ This is sample slide.
 
 ---?image=sample/assets/images/sample.jpg&size=auto 90%
 
-learn more 
+learn more  
 https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md
 
 ---
