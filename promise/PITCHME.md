@@ -1,4 +1,4 @@
----?image=hoge.jpg
+---?image=promise/hoge.jpg
 
 # Promiseを使った非同期処理
 
