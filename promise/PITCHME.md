@@ -6,7 +6,7 @@
 - 非同期処理を扱いやすくするオブジェクト |
 - ES2015からの機能 |
 
-![aaa](hoge.jpg)
+![aaa](https://github.com/kde-space/slides/raw/master/promise/hoge.jpg)
 
 ---
 
